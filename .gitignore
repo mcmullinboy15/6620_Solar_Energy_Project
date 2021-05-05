@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+
+*.csv
+!data/cautious-sections-3368.csv
+!combined_data.csv
+!weather_data.csv
+!solar_data.csv
+
+models/*/*
+!models/256/cautious-sections-3368_epoch_1024_batch_256_Model_Model2_h1_64_h2_128_h3_128_lr_0.0001_optim_Adam.*
